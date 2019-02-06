@@ -1,0 +1,268 @@
+# Entry removed Thu Jan 10 23:27:10 2019
+# Reason: ERROR: "Heat Of The Moment ..." is no longer available due to a copyright claim by a third party.
+https://youtube.com/watch?v=vpEwKz6YCEs
+
+################################
+
+# Entry removed Thu Jan 10 23:37:28 2019
+# Reason: ERROR: Unable to download webpage: <urlopen error unknown url type: spotify> (caused by URLError('unknown url type: spotify'))
+spotify:user:12151865827:playlist:069nHXSZCQoPdEIJ38scOf
+
+################################
+
+# Entry removed Tue Jan 29 14:08:28 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=21EfHJrGPEY
+
+################################
+
+# Entry removed Tue Jan 29 14:08:30 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=WM7-PYtXtJM
+
+################################
+
+# Entry removed Tue Jan 29 14:08:32 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=F8CR9IP7Mog
+
+################################
+
+# Entry removed Tue Jan 29 14:08:33 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=gPDcwjJ8pLg
+
+################################
+
+# Entry removed Tue Jan 29 14:08:35 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=ld2UZPEfLdo
+
+################################
+
+# Entry removed Tue Jan 29 14:08:37 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=nQJACVmankY
+
+################################
+
+# Entry removed Tue Jan 29 14:08:38 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=ZTtTyNvjcY0
+
+################################
+
+# Entry removed Tue Jan 29 14:08:40 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=ZSM3w1v-A_Y
+
+################################
+
+# Entry removed Tue Jan 29 14:08:42 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=Q-oM2BQ8Jow
+
+################################
+
+# Entry removed Tue Jan 29 14:08:44 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=aNyK6EcHlzM
+
+################################
+
+# Entry removed Tue Jan 29 14:08:46 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=iL9kuemFQPA
+
+################################
+
+# Entry removed Tue Jan 29 14:08:47 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=JmcA9LIIXWw
+
+################################
+
+# Entry removed Tue Jan 29 14:08:49 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=ZP_4hj-3x1s
+
+################################
+
+# Entry removed Tue Jan 29 14:08:51 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=SLsTskih7_I
+
+################################
+
+# Entry removed Tue Jan 29 14:09:15 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=B1dmRjyN0CQ
+
+################################
+
+# Entry removed Tue Jan 29 14:09:17 2019
+# Reason: ERROR: Signature extraction failed: Traceback (most recent call last):
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1231, in _decrypt_signature
+#              video_id, player_url, s
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1139, in _extract_signature_function
+#              res = self._parse_sig_js(code)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\extractor\youtube.py", line 1206, in _parse_sig_js
+#              initial_function = jsi.extract_function(funcname)
+#            File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\youtube_dl\jsinterp.py", line 245, in extract_function
+#              raise ExtractorError('Could not find JS function %r' % funcname)
+#          youtube_dl.utils.ExtractorError: Could not find JS function 'encodeURIComponent'
+#           (caused by ExtractorError("Could not find JS function 'encodeURIComponent'"))
+https://www.youtube.com/watch?v=o-BODsf2T68
+
+################################
+

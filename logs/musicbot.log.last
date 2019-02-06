@@ -1,0 +1,113 @@
+[147.311449051] 2019-02-06 14:23:34,212 - INFO - launcher: Starting sanity checks
+[147.311449051] 2019-02-06 14:23:34,212 - INFO - launcher: Checking for Python 3.5+
+[147.311449051] 2019-02-06 14:23:34,212 - INFO - launcher: Checking console encoding
+[147.807836533] 2019-02-06 14:23:34,213 - INFO - launcher: Setting console encoding to UTF-8
+[147.807836533] 2019-02-06 14:23:34,213 - INFO - launcher: Ensuring we're in the right environment
+[149.295806885] 2019-02-06 14:23:34,214 - INFO - launcher: Adding local bins/ folder to path
+[2148.701429367] 2019-02-06 14:23:36,214 - INFO - launcher: Required checks passed.
+[2149.693250656] 2019-02-06 14:23:36,215 - INFO - launcher: Optional checks passed.
+[2150.189161301] 2019-02-06 14:23:36,215 - INFO - launcher: Moving old musicbot log
+
+######################### PRE-RUN SANITY CHECKS PASSED #########################
+
+[6.8046493530273438] 2019-02-06 14:23:40,870 - WARNING - musicbot.config | In config.py::MainThread(38068), line 116 in run_checks: i18n file does not exist. Trying to fallback to config/i18n/en.json.
+[6.8051452636718750] 2019-02-06 14:23:40,870 - INFO - musicbot.config | In config.py::MainThread(38068), line 127 in run_checks: Using i18n: config/i18n/en.json
+[6.8120896816253662] 2019-02-06 14:23:40,877 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 226 in _setup_logging: Set logging level to INFO
+[6.8180415630340576] 2019-02-06 14:23:40,883 - DEBUG - musicbot.json | In json.py::MainThread(38068), line 8 in __init__: Init JSON obj with config/i18n/en.json
+[6.8512730598449707] 2019-02-06 14:23:40,916 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 91 in __init__: Starting MusicBot 1.9.8_4
+[6.8517689704895020] 2019-02-06 14:23:40,917 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 97 in __init__: Loaded autoplaylist with 247 entries
+[7.0189216136932373] 2019-02-06 14:23:41,084 - DEBUG - musicbot.spotify | In spotify.py::MainThread(38068), line 74 in get_token: Created a new access token: {'access_token': 'BQBPHrBgOE2RZaToVUhXhvQplgP3Qw3kXYrwHP2zQHt8tkOhkYg_33P2xC_S0bIf3RilZJ6_NhI7jNaN28k', 'token_type': 'Bearer', 'expires_in': 3600, 'scope': '', 'expires_at': 1549488221}
+[7.0189216136932373] 2019-02-06 14:23:41,084 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 122 in __init__: Authenticated with Spotify successfully using client ID and secret.
+[9.3939647674560547] 2019-02-06 14:23:43,459 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 922 in on_ready: Connection established, ready to go.
+[9.3939647674560547] 2019-02-06 14:23:43,459 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 340 in _cache_app_info: Caching app info
+[9.4797761440277100] 2019-02-06 14:23:43,545 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 744 in _scheck_ensure_env: Ensuring data folders exist
+[9.4852285385131836] 2019-02-06 14:23:43,550 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 760 in _scheck_server_permissions: Checking server permissions
+[9.4852285385131836] 2019-02-06 14:23:43,550 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 764 in _scheck_autoplaylist: Auditing autoplaylist
+[9.4857242107391357] 2019-02-06 14:23:43,551 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 768 in _scheck_configs: Validating config
+[9.4857242107391357] 2019-02-06 14:23:43,551 - DEBUG - musicbot.config | In config.py::MainThread(38068), line 217 in async_validate: Validating options...
+[9.4857242107391357] 2019-02-06 14:23:43,551 - DEBUG - musicbot.config | In config.py::MainThread(38068), line 231 in async_validate: Acquired owner id via API
+[9.4857242107391357] 2019-02-06 14:23:43,551 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 771 in _scheck_configs: Validating permissions config
+[9.4857242107391357] 2019-02-06 14:23:43,551 - DEBUG - musicbot.permissions | In permissions.py::MainThread(38068), line 94 in async_validate: Validating permissions...
+[9.4857242107391357] 2019-02-06 14:23:43,551 - DEBUG - musicbot.permissions | In permissions.py::MainThread(38068), line 98 in async_validate: Fixing automatic owner group
+[9.4857242107391357] 2019-02-06 14:23:43,551 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 939 in on_ready: Connected: 443672652125831169/Music Daddy#0707
+[9.4867551326751709] 2019-02-06 14:23:43,552 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 947 in on_ready: Owner:     197700775567294464/Polyduck#6933
+
+[9.4872293472290039] 2019-02-06 14:23:43,552 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 950 in on_ready: Guild List:
+[9.4877190589904785] 2019-02-06 14:23:43,553 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 954 in on_ready:  - The Ducklings CompeteLeague Team
+[9.4882047176361084] 2019-02-06 14:23:43,553 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 954 in on_ready:  - Discord Server For When Krysten's Around Because She Hates Everyone Else's Discord Servers
+[9.4887008666992188] 2019-02-06 14:23:43,554 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 954 in on_ready:  - Polypaston
+[9.4891967773437500] 2019-02-06 14:23:43,554 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 997 in on_ready: Bound to text channels:
+[9.4896938800811768] 2019-02-06 14:23:43,555 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 998 in <listcomp>:  - Polypaston/musicbot
+[9.4901895523071289] 2019-02-06 14:23:43,555 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 998 in <listcomp>:  - Discord Server For When Krysten's Around Because She Hates Everyone Else's Discord Servers/musicrequest
+[9.4901895523071289] 2019-02-06 14:23:43,555 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 998 in <listcomp>:  - Discord Server For When Krysten's Around Because She Hates Everyone Else's Discord Servers/k9
+[9.4906847476959229] 2019-02-06 14:23:43,556 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 998 in <listcomp>:  - The Ducklings CompeteLeague Team/music-requests
+[9.4911820888519287] 2019-02-06 14:23:43,556 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 1023 in on_ready: Autojoining voice channels:
+[9.4916770458221436] 2019-02-06 14:23:43,557 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 1024 in <listcomp>:  - Polypaston/General
+[9.4921734333038330] 2019-02-06 14:23:43,557 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 1024 in <listcomp>:  - The Ducklings CompeteLeague Team/General
+[9.4931652545928955] 2019-02-06 14:23:43,558 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 270 in _join_startup_channels: Found owner in "test"
+[9.4936614036560059] 2019-02-06 14:23:43,559 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 279 in _join_startup_channels: Attempting to join Polypaston/General
+[9.7987003326416016] 2019-02-06 14:23:43,864 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 704 in deserialize_queue: Deserializing queue for 493300096662765578
+[10.0020601749420166] 2019-02-06 14:23:44,067 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 423 in get_player: Created player via deserialization for guild 493300096662765578 with 1 entries
+[10.0025560855865479] 2019-02-06 14:23:44,068 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 295 in _join_startup_channels: Joined Polypaston/General
+[10.0030527114868164] 2019-02-06 14:23:44,068 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 279 in _join_startup_channels: Attempting to join The Ducklings CompeteLeague Team/General
+[10.0045397281646729] 2019-02-06 14:23:44,070 - DEBUG - musicbot.entry | In entry.py::MainThread(38068), line 56 in get_ready_future: Created future for audio_cache\youtube-FM7MFYoylVs-The_Chainsmokers_Coldplay_-_Something_Just_Like_This_Lyric.webm
+[10.0045397281646729] 2019-02-06 14:23:44,070 - FFMPEG - musicbot.player | In player.py::MainThread(38068), line 273 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-FM7MFYoylVs-The_Chainsmokers_Coldplay_-_Something_Just_Like_This_Lyric.webm
+[10.1578042507171631] 2019-02-06 14:23:44,223 - DEBUG - musicbot.player | In player.py::MainThread(38068), line 284 in _play: Playing <discord.player.PCMVolumeTransformer object at 0x03BB02B0> using <discord.voice_client.VoiceClient object at 0x051398F0>
+[10.1587960720062256] 2019-02-06 14:23:44,224 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 254 in _autopause: Initial autopause in empty channel
+[10.1592917442321777] 2019-02-06 14:23:44,224 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 458 in on_player_play: Running on_player_play
+[10.1597883701324463] 2019-02-06 14:23:44,225 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 680 in serialize_queue: Serializing queue for 493300096662765578
+[10.1632602214813232] 2019-02-06 14:23:44,228 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 506 in on_player_pause: Running on_player_pause
+[10.3239645957946777] 2019-02-06 14:23:44,389 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 704 in deserialize_queue: Deserializing queue for 356963272601370635
+[10.3418200016021729] 2019-02-06 14:23:44,407 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 423 in get_player: Created player via deserialization for guild 356963272601370635 with 1 entries
+[10.3423166275024414] 2019-02-06 14:23:44,407 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 295 in _join_startup_channels: Joined The Ducklings CompeteLeague Team/General
+[10.3428122997283936] 2019-02-06 14:23:44,408 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 279 in _join_startup_channels: Attempting to join Discord Server For When Krysten's Around Because She Hates Everyone Else's Discord Servers/test
+[10.3433339595794678] 2019-02-06 14:23:44,408 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 284 in _join_startup_channels: Cannot join channel "test", no permission.
+[10.3443009853363037] 2019-02-06 14:23:44,409 - WARNING - musicbot.bot | In bot.py::MainThread(38068), line 1078 in on_ready: Your config file is missing some options. If you have recently updated, check the example_options.ini file to see if there are new options available to you. The options missing are: {'usealias'}
+[10.3453176021575928] 2019-02-06 14:23:44,410 - DEBUG - musicbot.entry | In entry.py::MainThread(38068), line 56 in get_ready_future: Created future for audio_cache\youtube-Co0tTeuUVhU-Kanye_West_-_Heartless.webm
+[10.3453176021575928] 2019-02-06 14:23:44,410 - FFMPEG - musicbot.player | In player.py::MainThread(38068), line 273 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-Co0tTeuUVhU-Kanye_West_-_Heartless.webm
+[10.3487882614135742] 2019-02-06 14:23:44,414 - DEBUG - musicbot.player | In player.py::MainThread(38068), line 284 in _play: Playing <discord.player.PCMVolumeTransformer object at 0x06094230> using <discord.voice_client.VoiceClient object at 0x05150C10>
+[10.3497560024261475] 2019-02-06 14:23:44,415 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 254 in _autopause: Initial autopause in empty channel
+[10.3502526283264160] 2019-02-06 14:23:44,415 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 458 in on_player_play: Running on_player_play
+[10.3507483005523682] 2019-02-06 14:23:44,416 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 680 in serialize_queue: Serializing queue for 356963272601370635
+[10.3532278537750244] 2019-02-06 14:23:44,418 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 506 in on_player_pause: Running on_player_pause
+[26.7668755054473877] 2019-02-06 14:24:00,832 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 2670 in on_message: 197700775567294464/Polyduck#6933: !summon
+[26.7678413391113281] 2019-02-06 14:24:00,833 - WARNING - musicbot.bot | In bot.py::MainThread(38068), line 1898 in cmd_summon: Cannot join channel 'test', no permission.
+[26.7678413391113281] 2019-02-06 14:24:00,833 - ERROR - musicbot.bot | In bot.py::MainThread(38068), line 2799 in on_message: Error in summon: CommandError: Cannot join channel `test`, no permission to connect.
+Traceback (most recent call last):
+  File "C:\Users\theod\Documents\DiscordBots\MusicBot\musicbot\bot.py", line 2777, in on_message
+    response = await handler(**handler_kwargs)
+  File "C:\Users\theod\Documents\DiscordBots\MusicBot\musicbot\bot.py", line 1901, in cmd_summon
+    expire_in=25
+musicbot.exceptions.CommandError: Cannot join channel `test`, no permission to connect.
+[30.7714281082153320] 2019-02-06 14:24:04,837 - ERROR - musicbot.bot | In bot.py::MainThread(38068), line 910 in on_error: Exception in on_voice_state_update
+Traceback (most recent call last):
+  File "C:\Users\theod\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 227, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\theod\Documents\DiscordBots\MusicBot\musicbot\bot.py", line 2868, in on_voice_state_update
+    player = await self.get_player(channel)
+  File "C:\Users\theod\Documents\DiscordBots\MusicBot\musicbot\bot.py", line 431, in get_player
+    'Use %ssummon to summon it to your voice channel.' % self.config.command_prefix)
+musicbot.exceptions.CommandError: The bot is not in a voice channel.  Use !summon to summon it to your voice channel.
+[33.7242307662963867] 2019-02-06 14:24:07,789 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 2670 in on_message: 197700775567294464/Polyduck#6933: !summon
+[33.9693548679351807] 2019-02-06 14:24:08,034 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 704 in deserialize_queue: Deserializing queue for 410242793580134400
+[33.9877328872680664] 2019-02-06 14:24:08,053 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 423 in get_player: Created player via deserialization for guild 410242793580134400 with 1 entries
+[33.9877328872680664] 2019-02-06 14:24:08,053 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 515 in on_player_finished_playing: Running on_player_finished_playing
+[33.9882028102874756] 2019-02-06 14:24:08,053 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 680 in serialize_queue: Serializing queue for 410242793580134400
+[33.9931623935699463] 2019-02-06 14:24:08,058 - INFO - musicbot.bot | In bot.py::MainThread(38068), line 1919 in cmd_summon: Joining Discord Server For When Krysten's Around Because She Hates Everyone Else's Discord Servers/klub
+[33.9951462745666504] 2019-02-06 14:24:08,060 - DEBUG - musicbot.entry | In entry.py::MainThread(38068), line 56 in get_ready_future: Created future for audio_cache\youtube-dQw4w9WgXcQ-Rick_Astley_-_Never_Gonna_Give_You_Up_Video.webm
+[33.9951462745666504] 2019-02-06 14:24:08,060 - FFMPEG - musicbot.player | In player.py::MainThread(38068), line 273 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-dQw4w9WgXcQ-Rick_Astley_-_Never_Gonna_Give_You_Up_Video.webm
+[33.9986455440521240] 2019-02-06 14:24:08,064 - DEBUG - musicbot.player | In player.py::MainThread(38068), line 284 in _play: Playing <discord.player.PCMVolumeTransformer object at 0x060945B0> using <discord.voice_client.VoiceClient object at 0x04CA2190>
+[33.9996111392974854] 2019-02-06 14:24:08,065 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 458 in on_player_play: Running on_player_play
+[34.0001065731048584] 2019-02-06 14:24:08,065 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 680 in serialize_queue: Serializing queue for 410242793580134400
+[44.7205162048339844] 2019-02-06 14:24:18,786 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 515 in on_player_finished_playing: Running on_player_finished_playing
+[44.7205162048339844] 2019-02-06 14:24:18,786 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 530 in on_player_finished_playing: No content in current autoplaylist. Filling with new music...
+[48.2927048206329346] 2019-02-06 14:24:22,358 - DEBUG - musicbot.entry | In entry.py::MainThread(38068), line 56 in get_ready_future: Created future for None
+[48.2927048206329346] 2019-02-06 14:24:22,358 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 595 in on_player_entry_added: Running on_player_entry_added
+[48.2941927909851074] 2019-02-06 14:24:22,359 - INFO - musicbot.entry | In entry.py::MainThread(38068), line 292 in _really_download: Download started: https://www.youtube.com/watch?v=45Fvy5h38KI
+[48.2946884632110596] 2019-02-06 14:24:22,360 - DEBUG - musicbot.entry | In entry.py::MainThread(38068), line 56 in get_ready_future: Created future for None
+[52.1148767471313477] 2019-02-06 14:24:26,180 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 828 in safe_delete_message: Cannot delete message "", message not found
+[52.9461858272552490] 2019-02-06 14:24:27,011 - INFO - musicbot.entry | In entry.py::MainThread(38068), line 302 in _really_download: Download complete: https://www.youtube.com/watch?v=45Fvy5h38KI
+[52.9496452808380127] 2019-02-06 14:24:27,015 - FFMPEG - musicbot.player | In player.py::MainThread(38068), line 273 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-45Fvy5h38KI-Alice_Merton_-_Why_So_Serious_Official_Video.webm
+[52.9531416893005371] 2019-02-06 14:24:27,018 - DEBUG - musicbot.player | In player.py::MainThread(38068), line 284 in _play: Playing <discord.player.PCMVolumeTransformer object at 0x03242890> using <discord.voice_client.VoiceClient object at 0x04CA2190>
+[52.9536123275756836] 2019-02-06 14:24:27,019 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 458 in on_player_play: Running on_player_play
+[52.9541082382202148] 2019-02-06 14:24:27,019 - DEBUG - musicbot.bot | In bot.py::MainThread(38068), line 680 in serialize_queue: Serializing queue for 410242793580134400
