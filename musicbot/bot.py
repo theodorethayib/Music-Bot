@@ -49,6 +49,7 @@ log = logging.getLogger(__name__)
 
 
 class MusicBot(discord.Client):
+    songName = "Test"
     def __init__(self, config_file=None, perms_file=None, aliases_file=None):
         try:
             sys.stdout.write("\x1b]2;MusicBot {}\x07".format(BOTVERSION))
@@ -608,6 +609,8 @@ class MusicBot(discord.Client):
     async def update_now_playing_status(self, entry=None, is_paused=False):
         game = None
 
+        log.debug("Original hello does this work?")
+
         if not self.config.status_message:
             if self.user.bot:
                 activeplayers = sum(1 for p in self.players.values() if p.is_playing)
@@ -631,6 +634,9 @@ class MusicBot(discord.Client):
             if game != self.last_status:
                 await self.change_presence(activity=game)
                 self.last_status = game
+
+        songName = game
+        log.debug("Game thingy: %s", songName)
 
     async def update_now_playing_message(self, guild, message, *, channel=None):
         lnp = self.server_specific_data[guild]['last_np_msg']
@@ -661,7 +667,9 @@ class MusicBot(discord.Client):
         elif channel: # No previous message
             m = await self.safe_send_message(channel, message, quiet=True)
 
+
         self.server_specific_data[guild]['last_np_msg'] = m
+
 
 
     async def serialize_queue(self, guild, *, dir=None):
@@ -1097,6 +1105,18 @@ class MusicBot(discord.Client):
         """
         player.autoplaylist = list(set(self.autoplaylist))
         return Response(self.str.get('cmd-resetplaylist-response', '\N{OK HAND SIGN}'), delete_after=15)
+
+    async def cmd_lyrics(self, message, channel):
+        # prefix = u'\u275A\u275A ' if is_paused else ''
+        prefix = ' '
+        player = discord.utils.get(self.players.values(), is_playing=True)
+        entry = player.current_entry
+        name = u'{}{}'.format(prefix, entry.title)[:128]
+        veryRandomVariable = discord.Game(type=0, name=name)
+
+        log.debug("Testing the debug, %s", veryRandomVariable)
+
+        return
 
     async def cmd_help(self, message, channel, command=None):
         """
